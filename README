@@ -1,0 +1,9 @@
+APK Signer is a ROM Zip Tool which will sign your Rom zip files with a keystore basically the same as signing a APK File
+
+Instructions:
+
+1. Simply place the desired ROM.zip file into the root of the dir IE the same folder as the bat files
+
+2. RENAME the ROM.zip to update.zip
+
+3. Run the disired signing script depending on which java JDK you have installed on your pc
